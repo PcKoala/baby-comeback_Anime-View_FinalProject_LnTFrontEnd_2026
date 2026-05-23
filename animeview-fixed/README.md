@@ -107,7 +107,7 @@ npm run dev
 3. Buka browser
 
 ```plaintext
-http://localhost:5174
+http://localhost:5174git commit -m "fix repo structure"
 ```
 
 ---
